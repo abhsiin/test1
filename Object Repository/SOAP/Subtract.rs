@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>Subtract</name>
+   <tag></tag>
+   <elementGuidId>528234f8-8281-49e0-b6cc-47ef4e82953e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <restRequestMethod></restRequestMethod>
+   <restUrl></restUrl>
+   <serviceType>SOAP</serviceType>
+   <soapBody>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:tem=&quot;http://tempuri.org/&quot;>
+   &lt;soapenv:Header/>
+   &lt;soapenv:Body>
+      &lt;tem:Subtract>
+         &lt;tem:intA>3&lt;/tem:intA>
+         &lt;tem:intB>3&lt;/tem:intB>
+      &lt;/tem:Subtract>
+   &lt;/soapenv:Body>
+&lt;/soapenv:Envelope>
+</soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod>SOAP</soapRequestMethod>
+   <soapServiceFunction>Subtract</soapServiceFunction>
+   <wsdlAddress>http://www.dneonline.com/calculator.asmx?WSDL</wsdlAddress>
+</WebServiceRequestEntity>

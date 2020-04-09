@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UItoAPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1564ea3c-ed41-49c7-923f-827d38b4bae6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26baabce-94da-4081-a36c-3e7dedc9c235</id>
+      <masked>false</masked>
+      <name>searchtext</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>datepicker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30df3e89-a17d-41be-8371-db285d67cf1c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('New Test Data').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>981888e4-b0ec-4356-80d6-497efcd15220</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>701459b2-6ca8-4c28-8283-515ff062da65</id>
+      <masked>false</masked>
+      <name>monthcode</name>
+   </variable>
+</TestCaseEntity>
